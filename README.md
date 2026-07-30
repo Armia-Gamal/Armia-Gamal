@@ -12,6 +12,9 @@
   <img src="https://github-readme-stats.profile-readme-generator.com/api/top-langs?username=Armia-Gamal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="3100" alt="languages graph"  />
 </div>
 
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/a0f0a3d2ab9631b370485e79018c48c67b139ab6/public/assets/snake.svg" alt="Snake animation" />
 <div align="center">
   <h3>AI Backend Engineer</h3>
   <p>
