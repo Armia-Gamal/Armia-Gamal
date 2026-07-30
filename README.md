@@ -1,11 +1,30 @@
-<div align="center">
-  <img src="./assets/hero-name.svg" width="98%" alt="Armia Gamal ASCII logo" />
+
+```text
+ █████╗ ██████╗ ███╗   ███╗██╗ █████╗   ██████╗  █████╗ ███╗   ███╗ █████╗ ██╗
+██╔══██╗██╔══██╗████╗ ████║██║██╔══██╗ ██╔════╝ ██╔══██╗████╗ ████║██╔══██╗██║
+███████║██████╔╝██╔████╔██║██║███████║ ██║  ███╗███████║██╔████╔██║███████║██║
+██╔══██║██╔══██╗██║╚██╔╝██║██║██╔══██║ ██║   ██║██╔══██║██║╚██╔╝██║██╔══██║██║
+██║  ██║██║  ██║██║ ╚═╝ ██║██║██║  ██║ ╚██████╔╝██║  ██║██║ ╚═╝ ██║██║  ██║█████╗
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═╝  ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚════╝
+```
+<img align="right" src="./armia.jpeg" width="295" hspace="10"  alt="Armia Gamal Fekry" style="margin-top:20px; border-radius:22px;border:1px solid #00E5FF;box-shadow:0 18px 50px rgba(0,229,255,0.18);" />
+<div data-importer="stats" align="center">
+  <img src="https://github-readme-stats.profile-readme-generator.com/api?username=Armia-Gamal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.profile-readme-generator.com/api/top-langs?username=Armia-Gamal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="210" alt="languages graph"  />
 </div>
 
-<img align="right" src="./assets/armia-profile-card.png" width="300" alt="Armia Gamal Fekry profile card" />
-
 <div align="center">
-  <img src="./assets/typing.svg" width="72%" alt="AI Backend Engineer typing animation" />
+  <h3>AI Backend Engineer</h3>
+  <p>
+    <strong>Computer Vision Systems</strong> ·
+    <strong>LLMs</strong> ·
+    <strong>FastAPI</strong> ·
+    <strong>ASP.NET Core</strong>
+  </p>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=22&amp;duration=3200&amp;pause=900&amp;color=00E5FF&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=AI+Backend+Engineer;Computer+Vision+Systems;LLMs+%7C+RAG+%7C+FastAPI;ASP.NET+Core+Developer;Production-Ready+AI+Systems;Open+to+Full-Time+Opportunities" alt="Typing SVG" />
+  </a>
 
   <br />
   <br />
@@ -27,7 +46,7 @@
   </a>
 </div>
 
-<br clear="both" />
+<br clear="right" />
 
 ## About Me
 
@@ -187,56 +206,16 @@ Mission     : Build production-ready AI systems that are accurate, scalable, and
       </a>
     </p>
   </div>
-
-  <div style="border:1px solid #30363D;border-radius:18px;padding:22px;margin:18px 0;background:#0D1117;">
-    <h3>Hospital Management System — ASP.NET Core Backend Platform</h3>
-    <p>Enterprise-style healthcare management platform with structured modules and database-driven workflows.</p>
-    <p>
-      <img src="https://img.shields.io/badge/C%23-111827?style=flat-square&amp;logo=csharp&amp;logoColor=239120" alt="C Sharp" />
-      <img src="https://img.shields.io/badge/ASP.NET_Core-111827?style=flat-square&amp;logo=dotnet&amp;logoColor=512BD4" alt="ASP.NET Core" />
-      <img src="https://img.shields.io/badge/Entity_Framework-111827?style=flat-square&amp;logo=dotnet&amp;logoColor=512BD4" alt="Entity Framework" />
-      <img src="https://img.shields.io/badge/SQL_Server-111827?style=flat-square&amp;logo=microsoftsqlserver&amp;logoColor=CC2927" alt="SQL Server" />
-    </p>
-    <p><strong>Key achievements:</strong> Authentication, patient management, doctors module, appointment workflows, MVC architecture, SQL Server database design.</p>
-    <p>
-      <a href="https://github.com/Armia-Gamal?tab=repositories&amp;q=Hospital" target="_blank">
-        <img src="https://img.shields.io/badge/Repository-View_Code-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Hospital management repository" />
-      </a>
-    </p>
-  </div>
 </div>
 
 ## GitHub Statistics
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Armia-Gamal/Armia-Gamal/stats-output/stats.svg" height="165" alt="GitHub Stats" />
-  <img src="https://raw.githubusercontent.com/Armia-Gamal/Armia-Gamal/languages-output/languages.svg" height="165" alt="Top Languages" />
-</div>
 
 <div align="center">
   <img src="./assets/github-streak.svg" width="49%" alt="GitHub Streak" />
   <img src="./assets/github-trophies.svg" width="49%" alt="GitHub Trophies" />
 </div>
 
-<div align="center">
-  <img src="./assets/contribution-graph.svg" width="98%" alt="Contribution Graph" />
-</div>
 
-<div align="center">
-  <img src="./assets/profile-views.svg" width="32%" alt="Profile Views" />
-</div>
-
-## Experience
-
-<div align="center">
-  <img src="./assets/experience-timeline.svg" width="98%" alt="Experience timeline" />
-</div>
-
-## Certifications
-
-<div align="center">
-  <img src="./assets/certifications.svg" width="98%" alt="Certifications" />
-</div>
 
 ## Currently Learning
 
@@ -292,8 +271,4 @@ learning = {
   </a>
 </div>
 
-## Snake Animation
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Armia-Gamal/Armia-Gamal/snake-output/snake.svg" alt="Snake animation" />
-</div>
