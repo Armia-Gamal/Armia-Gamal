@@ -10,7 +10,7 @@
 <img align="right" src="assets/armia-profile-card.png" width="295" hspace="10"  alt="Armia Gamal Fekry" style="margin-top:20px; border-radius:22px;border:1px solid #00E5FF;box-shadow:0 18px 50px rgba(0,229,255,0.18);" />
 <div data-importer="stats" align="center">
   <img src="https://github-readme-stats.profile-readme-generator.com/api?username=Armia-Gamal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.profile-readme-generator.com/api/top-langs?username=Armia-Gamal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="210" alt="languages graph"  />
+  <img src="https://github-readme-stats.profile-readme-generator.com/api/top-langs?username=Armia-Gamal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="310" alt="languages graph"  />
 </div>
 
 <div align="center">
