@@ -1,0 +1,21 @@
+<svg width="900" height="54" viewBox="0 0 900 54" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Typing animation</title>
+  <desc id="desc">Animated role text for Armia Gamal Fekry.</desc>
+  <rect width="900" height="54" rx="16" fill="#0D1117"/>
+  <text x="450" y="34" text-anchor="middle" fill="#00E5FF" font-family="Consolas, 'Courier New', monospace" font-size="19" font-weight="700">
+    <tspan>AI Backend Engineer</tspan>
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.22;0.28;0.94;1" dur="8s" repeatCount="indefinite"/>
+  </text>
+  <text x="450" y="34" text-anchor="middle" fill="#00E5FF" font-family="Consolas, 'Courier New', monospace" font-size="19" font-weight="700" opacity="0">
+    <tspan>Computer Vision Systems</tspan>
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.24;0.30;0.46;0.52;1" dur="8s" repeatCount="indefinite"/>
+  </text>
+  <text x="450" y="34" text-anchor="middle" fill="#00E5FF" font-family="Consolas, 'Courier New', monospace" font-size="19" font-weight="700" opacity="0">
+    <tspan>LLMs | RAG | FastAPI</tspan>
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.48;0.54;0.70;0.76;1" dur="8s" repeatCount="indefinite"/>
+  </text>
+  <text x="450" y="34" text-anchor="middle" fill="#00E5FF" font-family="Consolas, 'Courier New', monospace" font-size="19" font-weight="700" opacity="0">
+    <tspan>Production-Ready AI Systems</tspan>
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.72;0.78;0.94;1" dur="8s" repeatCount="indefinite"/>
+  </text>
+</svg>
